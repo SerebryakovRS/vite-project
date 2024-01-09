@@ -1,6 +1,3 @@
-  import './style.css'
-
-
   const container = document.getElementById('popup');
   const content = document.getElementById('popup-content');
   const closer = document.getElementById('popup-closer');
